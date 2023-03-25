@@ -1,0 +1,15 @@
+E:\С#\Лаба 7\Сортировка\Сортировка\bin\Debug\net6.0\Сортировка.exe
+E:\С#\Лаба 7\Сортировка\Сортировка\bin\Debug\net6.0\Сортировка.deps.json
+E:\С#\Лаба 7\Сортировка\Сортировка\bin\Debug\net6.0\Сортировка.runtimeconfig.json
+E:\С#\Лаба 7\Сортировка\Сортировка\bin\Debug\net6.0\Сортировка.dll
+E:\С#\Лаба 7\Сортировка\Сортировка\bin\Debug\net6.0\Сортировка.pdb
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.csproj.AssemblyReference.cache
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.AssemblyInfoInputs.cache
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.AssemblyInfo.cs
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.csproj.CoreCompileInputs.cache
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.dll
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\refint\Сортировка.dll
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.pdb
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\Сортировка.genruntimeconfig.cache
+E:\С#\Лаба 7\Сортировка\Сортировка\obj\Debug\net6.0\ref\Сортировка.dll
